@@ -43,4 +43,4 @@ Documentation
 Refer to scrollReveal.js's docs to set your custom defaults or animation parameters
 
 
-[Demo and code example] (http://plnkr.co/edit/HTYndu?p=preview)
+[Demo and code example] (http://plnkr.co/edit/oDb3B1VimoHxNTG3aZRC?p=preview)
